@@ -1,1 +1,7 @@
-
+.center {
+  width: 100%;
+  higth: 100%;
+  display: flex-row nowrap;
+  align-items: center;
+  justify-content: center;
+}
